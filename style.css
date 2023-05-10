@@ -2,7 +2,10 @@
     font-variant: normal;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: antiquewhite;
+    background-position: 12cap;
 }
 .parrafo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: brown;
+    background-position: 10cap;
 }
